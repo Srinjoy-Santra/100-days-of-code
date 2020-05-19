@@ -34,3 +34,17 @@
 - train and update with new data
 
 **Link to work:** [Advanced NLP with spaCy in Python](https://www.datacamp.com/courses/advanced-nlp-with-spacy)
+
+### Day 3: May 19, 2020
+
+**Today's Progress**: Started Introduction to TensorFlow in Python
+
+**Topics:** 
+- constants and variables,
+- operations,
+- how to input data,
+- loss functions,
+- linear regression, 
+- batch training
+
+**Link to work:** [Introduction to TensorFlow in Python](https://www.datacamp.com/courses/introduction-to-tensorflow-in-python)
