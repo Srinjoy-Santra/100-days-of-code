@@ -25,7 +25,7 @@
 
 ### Day 2: May 18, 2020
 
-**Today's Progress**: Started Advanced NLP with spaCy in Python
+**Today's Progress**: Finished Advanced NLP with spaCy in Python
 
 **Topics:** 
 - pipeline components, extension attributes,
@@ -48,3 +48,28 @@
 - batch training
 
 **Link to work:** [Introduction to TensorFlow in Python](https://www.datacamp.com/courses/introduction-to-tensorflow-in-python)
+
+### Day 4: May 20, 2020
+
+**Today's Progress**: Started building a microblog
+
+**Topics:** 
+- Vuepress documentation
+
+**Link to work:** -
+
+### Day 5: May 21, 2020
+
+**Today's Progress**: Finished Introduction to TensorFlow in Python
+
+**Topics:** 
+- dense neural network layers
+- activation functions
+- optimization algorithms
+- training neural networks
+- neural netowrks in Keras
+- The Estimators API
+
+**Link to work:** [Introduction to TensorFlow in Python](https://www.datacamp.com/courses/introduction-to-tensorflow-in-python)
+
+
